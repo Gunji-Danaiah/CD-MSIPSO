@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite it as below."
+title: "CD-MSIPSO: code and data for cooperative dynamic-obstacle-aware multi-strategy PSO for multi-UAV path planning"
+type: software
+authors:
+  - family-names: Shaik
+    given-names: Riyaz Hussain
+    affiliation: "Rajiv Gandhi University of Knowledge Technologies, Nuzvid"
+  - family-names: Danaiah
+    given-names: Gunji
+    affiliation: "Rajiv Gandhi University of Knowledge Technologies, Nuzvid"
+  - family-names: M
+    given-names: Rama Krishna
+    affiliation: "Rajiv Gandhi University of Knowledge Technologies, Srikakulam"
+version: "1.0.0"
+license: MIT
+repository-code: "https://github.com/YOUR-USERNAME/CD-MSIPSO"
+# After the Zenodo release, add:  doi: "10.5281/zenodo.XXXXXXX"

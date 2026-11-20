@@ -1,0 +1,9 @@
+{
+ "n": 210,
+ "n_feasible": 47,
+ "n_infeasible": 163,
+ "mismatches": 0,
+ "max_abs_diff": 0.00029034569034891433,
+ "min_signed_diff": 0.0,
+ "mismatch_margins": []
+}
